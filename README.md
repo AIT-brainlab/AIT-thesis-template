@@ -12,7 +12,7 @@ git clone https://github.com/ruke1ire/AIT-thesis-template.git # copies the repos
 zip -r thesis_name.zip AIT-thesis-template # zips the repository to thesis_name.zip
 ```
 
-> if you are subscribed to the premium overleaf, simply fork this repo and sync it with your forked repo
+> if you are subscribed to the premium overleaf package, simply fork this repo and sync it with your forked repo
 
 ### Locally compiling
 
@@ -40,9 +40,9 @@ You can use the template by entering the information to the correct files.
 - conclusion.tex is where you give the summary and final remarks such as future work
 - references.bib is where you enter the bibtex for each citations you make
 - appendix.tex is where you enter your appendix
-- thesis.tex is the main file which imports all the above files (you can comment out sections you do not need.)
+- thesis.tex is the main file which imports all the above files (you can comment out sections you do not need)
 
-> \* You probably will not need to touch these files
+> You will probably not have to touch files containing \*.
 
 ## Contributing
 
