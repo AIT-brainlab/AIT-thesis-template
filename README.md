@@ -8,7 +8,7 @@ This repository contains a latex template for writing your thesis in Asian Insti
 To open this with overleaf, simply zip the entire file and upload it to overleaf.
 
 ```console
-git clone https://github.com/ruke1ire/AIT-thesis-template.git # copies the repository to your computer
+git clone https://github.com/AIT-brainlab/AIT-thesis-template.git # copies the repository to your computer
 zip -r thesis_name.zip AIT-thesis-template # zips the repository to thesis_name.zip
 ```
 
