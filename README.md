@@ -10,6 +10,9 @@ If you have GitHub account, you can use GitHub codespaces which is the remote de
 1. Login to GitHub.
 2. (Optional) Clone or `Use this template` to create your own repository.
 3. Click create codespaces 
+ 
+![](.devcontainer/screenshot.png)
+
 4. Wait until the building process is done.
 5. Enjoy!
 
