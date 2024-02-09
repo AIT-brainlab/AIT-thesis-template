@@ -3,7 +3,17 @@ This repository contains a latex template for writing your thesis in Asian Insti
 
 ## Usage
 
-### Uploading to Overleaf
+### 1. GitHub Codespaces
+
+If you have GitHub account, you can use GitHub codespaces which is the remote devlope environment. 
+
+1. Login to GitHub.
+2. (Optional) Clone or `Use this template` to create your own repository.
+3. Click create codespaces 
+4. Wait until the building process is done.
+5. Enjoy!
+
+### 2. Uploading to Overleaf
 
 To open this with overleaf, simply zip the entire file and upload it to overleaf.
 
@@ -14,7 +24,7 @@ zip -r thesis_name.zip AIT-thesis-template # zips the repository to thesis_name.
 
 > if you are subscribed to the premium overleaf package, simply fork this repo and sync it with your forked repo
 
-### Locally compiling
+### 3. Locally compiling
 
 If you have latex installed locally, you can use the following command to compile your thesis. The output pdf file will be named thesis.pdf.
 
